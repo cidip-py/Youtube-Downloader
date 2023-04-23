@@ -2,7 +2,7 @@ import pytube
 from youtubesearchpython import VideosSearch 
 
 # path to download the video
-PATH = '/home/cidip/Downloads/videos'
+PATH = '/path/to/download/video'
 
 def get_video():
     # get user input for the video to be downloaded
